@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
