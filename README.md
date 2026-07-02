@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Sliding Window
 |  |
 | ------- |
