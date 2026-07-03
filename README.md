@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -21,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0650-2-keys-keyboard) |
+| [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,8 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
