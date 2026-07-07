@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1301-number-of-paths-with-max-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0050-powx-n) |
 | [0650-2-keys-keyboard](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
