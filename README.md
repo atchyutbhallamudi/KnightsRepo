@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## String
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 ## Sliding Window
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Simulation
 |  |
