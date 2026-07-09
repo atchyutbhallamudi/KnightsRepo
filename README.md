@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [0994-rotting-oranges](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Simulation
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
