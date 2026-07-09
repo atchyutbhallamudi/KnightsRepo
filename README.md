@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [0994-rotting-oranges](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0994-rotting-oranges) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0133-clone-graph) |
 | [0219-contains-duplicate-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1288-remove-covered-intervals) |
 ## Simulation
@@ -162,5 +166,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
