@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
 | [0318-maximum-product-of-word-lengths](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -192,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0318-maximum-product-of-word-lengths](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
