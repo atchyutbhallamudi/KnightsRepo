@@ -1,53 +1,48 @@
 class Solution {
 public:
     bool canMakeSubsequence(string s, string t) {
-        int n = s.size();
-        int m = t.size();
+        int n = s.size(), m = t.size();
         if (n > m) return false;
 
-        vector<int> pre(m, 0);
-        int i = 0, j = 0;
-        
-        // 1. YOUR EXACT LOGIC (Forward Pass)
-        while (j < m) {
-            if (i < n && s[i] == t[j]) {
-                i++; // Found a match, move 'i'
-            }
-            pre[j] = i; // Record how many characters we successfully matched so far
-            j++;
+        // 1. Build L array: Earliest matching indices from the left
+        vector<int> L(n, -1);
+        int j = 0;
+        for (int i = 0; i < n; i++) {
+            while (j < m && t[j] != s[i]) j++;
+            if (j < m) L[i] = j++;
+            else break;
         }
-        
-        // If your forward loop matched everything, we don't even need a replacement!
-        if (pre[m - 1] == n) return true;
-        
-        vector<int> suf(m, 0);
-        i = n - 1; 
+
+        // If the left pass matched everything, no replacement is even needed!
+        if (L[n - 1] != -1) return true; 
+
+        // 2. Build R array: Latest matching indices from the right
+        vector<int> R(n, -1);
         j = m - 1;
-        int count = 0; 
-        
-        // 2. YOUR EXACT LOGIC (Backward Pass)
-        while (j >= 0) {
-            if (i >= 0 && s[i] == t[j]) {
-                i--; // Found a match from the end, move 'i' backwards
-                count++;
-            }
-            suf[j] = count; // Record how many characters we successfully matched from the end
-            j--;
+        for (int i = n - 1; i >= 0; i--) {
+            while (j >= 0 && t[j] != s[i]) j--;
+            if (j >= 0) R[i] = j--;
+            else break;
         }
-        
-        // 3. Find the perfect spot for the replacement
-        // We loop through 't' and say: "If I replace t[k], do the forward matches 
-        // before 'k' + the backward matches after 'k' equal the rest of 's'?"
-        for (int k = 0; k < m; k++) {
-            int left_matches = (k > 0) ? pre[k - 1] : 0;
-            int right_matches = (k < m - 1) ? suf[k + 1] : 0;
-            
-            // We need to match n-1 characters (since 1 character is replaced at t[k])
-            if (left_matches + right_matches >= n - 1) {
-                return true;
+
+        // 3. Find if there is a valid gap to replace s[i]
+        for (int i = 0; i < n; i++) {
+            // Check if the left and right segments actually exist/matched
+            bool left_ok = (i == 0) || (L[i - 1] != -1);
+            bool right_ok = (i == n - 1) || (R[i + 1] != -1);
+
+            if (left_ok && right_ok) {
+                // Determine the boundaries of the gap in 't'
+                int left_idx = (i == 0) ? -1 : L[i - 1];
+                int right_idx = (i == n - 1) ? m : R[i + 1];
+                
+                // If there is at least one unused character between them
+                if (left_idx + 1 < right_idx) {
+                    return true;
+                }
             }
         }
-        
+
         return false;
     }
 };
