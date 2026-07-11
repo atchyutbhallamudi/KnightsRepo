@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1301-number-of-paths-with-max-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2262-total-appeal-of-a-string](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-find-longest-awesome-substring](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1542-find-longest-awesome-substring) |
+| [2262-total-appeal-of-a-string](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-find-longest-awesome-substring](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1542-find-longest-awesome-substring) |
+| [2262-total-appeal-of-a-string](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
