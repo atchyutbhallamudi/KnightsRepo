@@ -1,26 +1,15 @@
+bool cmp(vector<int>& a, vector<int>& b) {return a[1] < b[1];}
 class Solution {
-public:
-    int findMinArrowShots(vector<vector<int>>& points) {
-        sort(points.begin(),points.end());
-        vector<vector<int>> merge;
-        int breaks = 0;
-        priority_queue<int,vector<int>,greater<int>> prevend;
-        for(int i = 0;i<points.size();i++){
-            if(merge.empty() || points[i][0] > merge.back()[1]){
-                merge.push_back(points[i]);
-                while(!prevend.empty())prevend.pop();
-                prevend.push(points[i][1]);
-            }
-            else{
-                if(points[i][0] > prevend.top()){
-                    breaks++;
-                    prevend.pop();
-                }
-                prevend.push(points[i][1]);
-                merge.back()[1] = min(merge.back()[1], points[i][1]);
+public:  
+    int findMinArrowShots(vector<vector<int>>& segments) {
+        sort(segments.begin(), segments.end(), cmp);
+        int ans = 0, arrow = 0;
+        for (int i = 0; i < segments.size(); i ++) {
+            if (ans == 0 || segments[i][0] > arrow) {
+                ans ++;
+                arrow = segments[i][1];
             }
         }
-        cout << breaks << endl;
-        return (int)merge.size() + breaks;
+        return ans;
     }
 };
