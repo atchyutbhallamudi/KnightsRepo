@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
 | [0318-maximum-product-of-word-lengths](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1542-find-longest-awesome-substring](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1542-find-longest-awesome-substring) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
