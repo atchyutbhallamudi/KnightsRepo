@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0318-maximum-product-of-word-lengths](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0785-is-graph-bipartite](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0785-is-graph-bipartite](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
