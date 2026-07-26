@@ -6,7 +6,7 @@ public:
         // Base case: If we reached the end of pattern
         if (j == p.size()) return i == s.size();
 
-        if (dp[i][j] != -1) return dp[i][j];
+        if (dp[i][j] != -1)return dp[i][j]; 
 
         // Check if current characters match
         bool first_match = (i < s.size() && (s[i] == p[j] || p[j] == '.'));
@@ -22,7 +22,6 @@ public:
             // Standard single character match
             ans = first_match && rec(i + 1, j + 1, s, p);
         }
-
         return dp[i][j] = ans;
     }
 
