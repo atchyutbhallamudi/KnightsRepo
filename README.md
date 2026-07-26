@@ -116,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0650-2-keys-keyboard](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1301-number-of-paths-with-max-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2262-total-appeal-of-a-string](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2262-total-appeal-of-a-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
