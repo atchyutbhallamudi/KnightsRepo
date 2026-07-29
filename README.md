@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1537-get-the-maximum-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0650-2-keys-keyboard](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [1301-number-of-paths-with-max-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1537-get-the-maximum-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [2262-total-appeal-of-a-string](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1537-get-the-maximum-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1537-get-the-maximum-score) |
 ## Counting
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1537-get-the-maximum-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1537-get-the-maximum-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
