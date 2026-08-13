@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0133-clone-graph) |
 | [0785-is-graph-bipartite](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
