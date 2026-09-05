@@ -1,38 +1,26 @@
 class Solution {
 public:
-    int countSpecialIntegers(vector<int>& arr) {
-        if (arr.size() == 1)
-            return 1;
-
+    int countSpecialIntegers(vector<int>& nums) {
         unordered_map<int, int> mp;
-        bool seen[101] = {false};
 
-        int count = 0;
-        int n = arr.size();
+        int n = nums.size();
 
-        for (int i = 0; i < n; i++) {
+        mp[nums[0]] = 1;
 
-            if (mp.find(arr[i]) == mp.end()) {
-           // first occurance
-                mp[arr[i]] = i;
-                count++;
-                continue;
-            }
-            else {
-                int sub = i - mp[arr[i]];
-
-                if (sub == 1) {
-                    //still its contiguous
-                    mp[arr[i]] = i;
-                }
-                else if (seen[arr[i]] == false) {
-                    // appeared again after gap Not VALID
-                    seen[arr[i]] = true;
-                    count--;
-                }
+        for(int i = 1; i < n; i++){
+            if(nums[i] != nums[i - 1]){
+                mp[nums[i]]++;
             }
         }
 
-        return count;
+        int cnt = 0;
+
+        for(auto &p : mp){
+            if(p.second == 1){
+                cnt++;
+            }
+        }
+
+        return cnt;
     }
 };
