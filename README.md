@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0115-distinct-subsequences](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0650-2-keys-keyboard](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0940-distinct-subsequences-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0433-minimum-genetic-mutation](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0940-distinct-subsequences-ii](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0940-distinct-subsequences-ii) |
