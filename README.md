@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/atchyutbhallamudi/Leetcode/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-total-appeal-of-a-string](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/atchyutbhallamudi/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/atchyutbhallamudi/Leetcode/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/atchyutbhallamudi/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
