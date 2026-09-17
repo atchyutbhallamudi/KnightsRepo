@@ -1,26 +1,31 @@
 class Solution {
 public:
-    long long dp[1001][1001];
-    long long MOD = 1e9 + 7;
-
-    long long rec(int i, int j) {
-        //bc
-        if (j == 0) return 1; 
-        if (i < j) return 0;  
-        
-        if (dp[i][j] != -1) return dp[i][j];
-
-        long long ans ;
-        ans = (2 * rec(i - 1, j) - rec(i - 2, j) + rec(i - 1, j - 1)) % MOD;
-
-        // Handle negative modulo values in C++
-        if (ans < 0) ans += MOD;
-        // Save and return
-        return dp[i][j] = ans;
-    }
-
     int numberOfSets(int n, int k) {
-        memset(dp, -1, sizeof(dp));
-        return rec(n - 1, k);
+        long long MOD = 1e9 + 7;
+        
+        // dp[i][j] represents the ways to form j segments using the first i points (indices 0 to i)
+        // We need n rows for indices 0 to n - 1.
+        vector<vector<long long>> dp(n, vector<long long>(k + 1, 0));
+        
+        // Base case: There is 1 way to form 0 segments (do nothing) for any point subset
+        for (int i = 0; i < n; ++i) {
+            dp[i][0] = 1;
+        }
+        
+        // Build the DP table segment by segment
+        for (int j = 1; j <= k; ++j) {
+            long long prefix_sum = 0;
+            
+            // Iterate through each point index from 0 to n - 1
+            for (int i = 0; i < n; ++i) {
+                if (i > 0) {
+                    dp[i][j] = (dp[i - 1][j] + prefix_sum) % MOD;
+                }
+                prefix_sum = (prefix_sum + dp[i][j - 1]) % MOD;
+            }
+        }
+        
+        // The answer using all n points (indices 0 to n - 1) to form k segments
+        return dp[n - 1][k];
     }
 };
